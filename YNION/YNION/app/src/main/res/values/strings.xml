@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YNION</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="ynion_logo">YNION_LOGO</string>
+    <string name="log_in_text">Log In</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account?</string>
+    <string name="sign_up_here_text">Sign Up Here!</string>
+    <string name="login_here_text">Login Here!</string>
+    <string name="already_have_an_account_text">Already have an account?</string>
+    <string name="email_text">Email</string>
+    <string name="confirm_password_text">confirm password</string>
+    <string name="remember_me_text">Remember me</string>
+    <string name="forgot_password_text">Forgot password?</string>
+    <string name="or_continue_with_text">or continue with</string>
+    <string name="gmaillogin_text">GmailLogin</string>
+    <string name="facebooklogin_text">FacebookLogin</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms_and_condition"> <u>Terms and Condition</u> &amp; <u>Privacy Policy</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_content_text">Note Content</string>
+    <string name="note_title_text">Note Title</string>
+</resources>
